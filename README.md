@@ -98,7 +98,7 @@
 
 ## ⌨️ Coding Activity  
 
-![Chirag's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cbcodes03&layout=compact&theme=algolia)
+![Chirag's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CBcodes03&layout=compact&theme=algolia)
 
 ---
 
