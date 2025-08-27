@@ -1,7 +1,7 @@
 # Hi there, I'm Chirag! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineering+Enthusiast;Full+Stack+Developer;Python+Specialist;DevOps Engineer;Always+Building+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineering+Enthusiast;Full+Stack+Developer;Python+Specialist;DevOps+Engineer;Always+Building+Something+New!" alt="Typing SVG" />
 </div>
 
 <p align="center">
