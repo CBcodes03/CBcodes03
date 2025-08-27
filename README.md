@@ -101,6 +101,28 @@
 
 ---
 
+## 🐍 Contribution Snake  
+
+<div align="center">
+  <img src="https://github.com/cbcodes03/cbcodes03/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
+
+---
+
+## 🎶 Spotify Now Playing  
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=36BCF7&bar_color_cover=true" />
+</div>  
+
+---
+
+## ⌨️ Coding Activity  
+
+![Chirag's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cbcodes03&layout=compact&theme=algolia)
+
+---
+
 ## 🎯 Current Focus  
 
 ```python
