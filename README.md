@@ -85,11 +85,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cbcodes03&theme=algolia&margin-w=8&no-bg=true&no-frame=true" />
-</div>  
 
 ---
 
@@ -97,22 +92,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cbcodes03&theme=react-dark&bg_color=0d1117&hide_border=true&line=58a6ff&point=36bcf7&area=true" />
-</div>  
-
----
-
-## 🐍 Contribution Snake  
-
-<div align="center">
-  <img src="https://github.com/cbcodes03/cbcodes03/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
-
----
-
-## 🎶 Spotify Now Playing  
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=36BCF7&bar_color_cover=true" />
 </div>  
 
 ---
