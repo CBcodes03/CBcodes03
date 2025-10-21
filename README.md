@@ -72,6 +72,17 @@
 
 ---
 
+## 📌 Pinned Repositories  
+
+<div align="center">
+  <a href="https://github.com/CBcodes03/PYbrowser"><img src="https://img.shields.io/badge/PYBrowser-Web%20Browser-blue?style=for-the-badge&logo=python" /></a>
+  <a href="https://github.com/CBcodes03/cbblogs"><img src="https://img.shields.io/badge/Cbblogs-Full%20Stack%20Blog-green?style=for-the-badge&logo=flask" /></a>
+  <a href="https://github.com/CBcodes03/emo_proj"><img src="https://img.shields.io/badge/EmotionalAnalysis-AI%20ML-orange?style=for-the-badge&logo=tensorflow" /></a>
+  <a href="https://github.com/CBcodes03/drive0"><img src="https://img.shields.io/badge/Drive0-2D%20Racing%20Game-red?style=for-the-badge&logo=pygame" /></a>
+</div>
+
+---
+
 ## 📊 GitHub Analytics  
 
 <div align="center">
