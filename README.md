@@ -105,27 +105,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cbcodes03&theme=react-dark&bg_color=0d1117&hide_border=true&line=58a6ff&point=36bcf7&area=true" />
 </div>  
 
----
-
-## ⌨️ Coding Activity  
-
-![Chirag's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CBcodes03&layout=compact&theme=algolia)
-
----
-
-## 🎯 Current Focus  
-
-```python
-class Chirag:
-    def __init__(self):
-        self.name = "Chirag Budakoti"
-        self.role = "AI Engineering Enthusiast & Full-Stack Developer"
-        self.languages = ["Python", "JavaScript", "C++", "C"]
-        self.current_focus = ["AI/ML", "Cloud Computing", "DevOps"]
-        self.hobbies = ["Coding", "Learning", "Problem Solving", "Blogging"]
-
-    def say_hi(self):
-        print("🚀 Thanks for dropping by! Let’s connect and build something amazing together!")
-
-me = Chirag()
-me.say_hi()
