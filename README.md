@@ -1,107 +1,106 @@
-# Hi there, I'm Chirag! 👋
+# Hi, I'm Chirag 👋  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineering+Enthusiast;Full+Stack+Developer;Python+Specialist;DevOps+Engineer;Always+Building+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineering+Enthusiast;Full+Stack+Developer;Python+Specialist;DevOps+Engineer;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cbcodes03&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/cbcodes03?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/From-India-ff9933?style=for-the-badge&logo=google-earth&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=cbcodes03&label=Profile%20views&color=36BCF7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/cbcodes03?label=Followers&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/cbcodes03?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Location-India-ff9933?style=for-the-badge&logo=google-earth&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🚀 Professional Summary  
 
-💡 Passionate programmer from **India** with interests in **AI Engineering, Full-Stack Development, and Cloud/DevOps**. I love turning complex problems into clean, scalable, and innovative solutions.  
+Detail-oriented Computer Science student with a strong foundation in **AI Engineering, Full-Stack Development, and Cloud/DevOps**. Experienced in designing scalable applications, automation systems, and data-driven solutions. Passionate about building efficient, production-ready systems.
 
-- 🔭 Currently building **AI/ML projects** and experimenting with **cloud-native architectures**  
-- 🌱 Learning **AI Engineering + DevOps pipelines**  
-- 📝 Writing at **[CBblogs](https://yourbloglink.com)** – tutorials, guides & case studies  
-- 💬 Ask me about **Python, Web Development, AI/ML, Automation**  
-- 📄 Check my **[Resume](resume-link-here.pdf)**  
-- ⚡ Fun fact: I learn something new every single day!  
+- 🔭 Building **AI/ML systems** and **cloud-native applications**  
+- 🌱 Learning **MLOps & advanced DevOps pipelines**  
+- 📝 Writing technical blogs on **CBblogs**  
+- 💬 Open to discussions on **Python, AI/ML, Web Dev, Automation**  
+- 📄 Resume: *[Add your link here]*  
 
 ---
 
-## 🌐 Connect with Me  
+## 📌 Featured Projects  
 
-<p align="center">
-<a href="https://linkedin.com/in/chirag-budakoti"><img src="https://img.shields.io/badge/Chirag%20Budakoti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/chirag-budakoti"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="mailto:chirag@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://twitter.com/username"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+| Project | Description | Tech Stack |
+|--------|------------|-----------|
+| [PYBrowser](https://github.com/CBcodes03/PYbrowser) | Lightweight browser with tabs, bookmarks & streaming | Python, PyQt5 |
+| [CBblogs](https://github.com/CBcodes03/cbblogs) | Full-stack blogging platform with admin panel & rich content | Flask, SQLite |
+| [Emotional Analysis](https://github.com/CBcodes03/emo_proj) | Real-time emotion detection using ML | TensorFlow, OpenCV |
+| [Drive0](https://github.com/CBcodes03/drive0) | 2D racing game with collision detection | Python, Pygame |
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 💻 Languages  
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,cpp,c,php&theme=dark" />
-</p>
-
-### 🎨 Frontend  
-<p>
-<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,reactnative&theme=dark" />
-</p>
-
-### ⚙️ Backend & Databases  
-<p>
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,mongodb,postgres,mysql,redis&theme=dark" />
-</p>
-
-### 🤖 AI/ML & Data Science  
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-### ☁️ Cloud & DevOps  
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,linux,git&theme=dark" />
-</p>
-
-### 🛠️ Tools & Design  
-<p>
-<img src="https://skillicons.dev/icons?i=figma,postman,vscode&theme=dark" />
-</p>
-
----
-## 📌 Pinned Repositories  
-
-| 📁 Repository | Description | Tech |
-|---------------|------------|------|
-| [PYBrowser](https://github.com/CBcodes03/PYbrowser) | Lightweight Web Browser with tab management, bookmarks & video streaming | Python, PyQt5 |
-| [Cbblogs](https://github.com/CBcodes03/cbblogs) | Full-stack blog platform with admin panel, image upload, code highlighting | Flask, SQLite, Bootstrap |
-| [EmotionalAnalysis](https://github.com/CBcodes03/emo_proj) | Real-time emotion detection using ML models and Flask API | TensorFlow, Keras, OpenCV |
-| [Drive0](https://github.com/CBcodes03/drive0) | 2D racing game with collision detection and scoring system | Python, Pygame |
-
+**Languages:** Python • JavaScript • C++ • C • PHP  
+**Frontend:** React • Vue • HTML • CSS • Tailwind • React Native  
+**Backend:** Django • Flask • Node • Express  
+**Databases:** MongoDB • PostgreSQL • MySQL • Redis  
+**AI/ML:** TensorFlow • OpenCV • Scikit-learn • Pandas  
+**DevOps:** AWS • Docker • Kubernetes • Jenkins • Linux • Git  
+**Tools:** Figma • Postman • VS Code  
 
 ---
 
 ## 📊 GitHub Analytics  
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cbcodes03&show_icons=true&theme=algolia&count_private=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbcodes03&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-</div>  
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cbcodes03&theme=algolia&hide_border=true" />
-</div>  
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=cbcodes03&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbcodes03&layout=compact&theme=algolia&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cbcodes03&theme=algolia&hide_border=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbcodes03&theme=github_dark" />
+
+</div>
 
 ---
 
+## 📈 Contribution Graph  
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cbcodes03&theme=react-dark&hide_border=true&area=true" />
+</div>
 
 ---
 
-## 📈 Activity Graph  
+## 🧠 Additional Insights  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cbcodes03&theme=react-dark&bg_color=0d1117&hide_border=true&line=58a6ff&point=36bcf7&area=true" />
-</div>  
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cbcodes03&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbcodes03&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbcodes03&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cbcodes03&theme=github_dark&utcOffset=5.5" />
+
+</div>
+
+---
+
+## 🌐 Connect  
+
+<p align="center">
+<a href="https://linkedin.com/in/chirag-budakoti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/chirag-budakoti"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:chirag@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 🎯 Career Focus  
+
+- AI / Machine Learning  
+- Full-Stack Engineering  
+- Cloud & DevOps  
+
+---
+
+⭐ *Consistently building, learning, and shipping scalable systems.*
