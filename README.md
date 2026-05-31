@@ -106,11 +106,13 @@ Focused on designing scalable, reliable, production-ready environments using mod
 
 ---
 
-## Activity
+## Contact
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cbcodes03&theme=github-compact&hide_border=true&area=true" width="100%" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-budakoti)&nbsp;
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cbcodes03)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chirag@example.com)
 
 </div>
 
