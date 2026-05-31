@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1D9E75&height=120&section=header&text=Hey,%20I%27m%20Chirag&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hey,%20I%27m%20Chirag&fontSize=36&fontColor=auto&fontAlignY=65&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&weight=500&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=DevOps+%26+Platform+Engineer;Kubernetes+%7C+AWS+%7C+GCP+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability;Building+Scalable%2C+Reliable+Infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+%26+Platform+Engineer;Kubernetes+%7C+AWS+%7C+GCP+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability;Building+Scalable%2C+Reliable+Infrastructure" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirag%20Budakoti-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-budakoti)&nbsp;
-[![Location](https://img.shields.io/badge/📍-India-1D9E75?style=flat-square&labelColor=0F6E56&color=1D9E75)](https://github.com/cbcodes03)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=cbcodes03&style=flat-square&color=1D9E75&label=profile+views)](https://github.com/cbcodes03)
+[![Location](https://img.shields.io/badge/📍-India-555?style=flat-square)](https://github.com/cbcodes03)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=cbcodes03&style=flat-square&color=grey&label=profile+views)](https://github.com/cbcodes03)
 
 </div>
 
@@ -98,27 +98,11 @@ Focused on designing scalable, reliable, production-ready environments using mod
 
 ---
 
-## Projects
-
-<!-- Replace REPO-NAME with your actual repository names -->
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=cbcodes03&repo=REPO-NAME-1&theme=dark&bg_color=0d1117&border_color=1D9E75&title_color=1D9E75&text_color=c9d1d9&icon_color=1D9E75)](https://github.com/cbcodes03/REPO-NAME-1)&nbsp;
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=cbcodes03&repo=REPO-NAME-2&theme=dark&bg_color=0d1117&border_color=1D9E75&title_color=1D9E75&text_color=c9d1d9&icon_color=1D9E75)](https://github.com/cbcodes03/REPO-NAME-2)
-
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=cbcodes03&repo=REPO-NAME-3&theme=dark&bg_color=0d1117&border_color=1D9E75&title_color=1D9E75&text_color=c9d1d9&icon_color=1D9E75)](https://github.com/cbcodes03/REPO-NAME-3)&nbsp;
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=cbcodes03&repo=REPO-NAME-4&theme=dark&bg_color=0d1117&border_color=1D9E75&title_color=1D9E75&text_color=c9d1d9&icon_color=1D9E75)](https://github.com/cbcodes03/REPO-NAME-4)
-
-</div>
-
----
-
 ## Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cbcodes03&theme=react-dark&hide_border=true&area=true&color=1D9E75&line=1D9E75&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cbcodes03&theme=github-compact&hide_border=true&area=true" width="100%" />
 
 </div>
 
@@ -126,6 +110,6 @@ Focused on designing scalable, reliable, production-ready environments using mod
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0F6E56&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=80&section=footer" />
 
 </div>
