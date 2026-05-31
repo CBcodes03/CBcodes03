@@ -79,19 +79,18 @@ Git • Nginx • Redis • RabbitMQ • FastAPI • Flask • Postman
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 Current Focus
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=cbcodes03&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbcodes03&layout=compact&theme=algolia&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cbcodes03&theme=algolia&hide_border=true" />
-
-</div>
+* Kubernetes & Platform Engineering
+* Cloud Infrastructure Automation
+* GitOps & CI/CD
+* Observability & Monitoring
+* Infrastructure as Code
+* Site Reliability Engineering (SRE)
 
 ---
+
+⭐ Building scalable infrastructure, automating operations, and continuously improving cloud-native systems.
 
 ## 📈 Contribution Graph
 
@@ -114,16 +113,3 @@ Git • Nginx • Redis • RabbitMQ • FastAPI • Flask • Postman
 </p>
 
 ---
-
-## 🎯 Current Focus
-
-* Kubernetes & Platform Engineering
-* Cloud Infrastructure Automation
-* GitOps & CI/CD
-* Observability & Monitoring
-* Infrastructure as Code
-* Site Reliability Engineering (SRE)
-
----
-
-⭐ Building scalable infrastructure, automating operations, and continuously improving cloud-native systems.
