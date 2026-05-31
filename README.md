@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hey,%20I%27m%20Chirag&fontSize=36&fontColor=auto&fontAlignY=65&animation=fadeIn" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hey,%20I%27m%20Chirag&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hey,%20I%27m%20Chirag&fontSize=36&fontColor=000000&fontAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hey,%20I%27m%20Chirag&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+%26+Platform+Engineer;Kubernetes+%7C+AWS+%7C+GCP+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability;Building+Scalable%2C+Reliable+Infrastructure" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=DevOps+%26+Platform+Engineer;Kubernetes+%7C+AWS+%7C+GCP+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability;Building+Scalable%2C+Reliable+Infrastructure" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=DevOps+%26+Platform+Engineer;Kubernetes+%7C+AWS+%7C+GCP+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability;Building+Scalable%2C+Reliable+Infrastructure" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=DevOps+%26+Platform+Engineer;Kubernetes+%7C+AWS+%7C+GCP+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability;Building+Scalable%2C+Reliable+Infrastructure" alt="Typing SVG" width="100%" />
+</picture>
 
 </div>
 
@@ -110,6 +118,10 @@ Focused on designing scalable, reliable, production-ready environments using mod
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=80&section=footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=80&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=80&section=footer" width="100%" />
+</picture>
 
 </div>
