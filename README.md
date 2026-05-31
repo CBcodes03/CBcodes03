@@ -1,106 +1,151 @@
-# Hi, I'm Chirag 👋  
+```markdown
+# Hi, I'm Chirag 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineering+Enthusiast;Full+Stack+Developer;Python+Specialist;DevOps+Engineer;Building+Scalable+Solutions" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Infrastructure+Engineer;Kubernetes+%7C+AWS+%7C+Terraform;Automation+%26+Platform+Engineering;Building+Scalable+Reliable+Systems" alt="Typing SVG" />
+
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cbcodes03&label=Profile%20views&color=36BCF7&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=cbcodes03&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/cbcodes03?label=Followers&style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/cbcodes03?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Location-India-ff9933?style=for-the-badge&logo=google-earth&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Professional Summary  
+## 🚀 About Me
 
-Detail-oriented Computer Science student with a strong foundation in **AI Engineering, Full-Stack Development, and Cloud/DevOps**. Experienced in designing scalable applications, automation systems, and data-driven solutions. Passionate about building efficient, production-ready systems.
+DevOps Engineer with hands-on experience building and managing cloud-native infrastructure, Kubernetes platforms, CI/CD pipelines, monitoring systems, and infrastructure automation.
 
-- 🔭 Building **AI/ML systems** and **cloud-native applications**  
-- 🌱 Learning **MLOps & advanced DevOps pipelines**  
-- 📝 Writing technical blogs on **CBblogs**  
-- 💬 Open to discussions on **Python, AI/ML, Web Dev, Automation**  
-- 📄 Resume: *[Add your link here]*  
+Focused on designing scalable, reliable, and production-ready environments using modern DevOps practices and cloud technologies.
 
----
-
-## 📌 Featured Projects  
-
-| Project | Description | Tech Stack |
-|--------|------------|-----------|
-| [PYBrowser](https://github.com/CBcodes03/PYbrowser) | Lightweight browser with tabs, bookmarks & streaming | Python, PyQt5 |
-| [CBblogs](https://github.com/CBcodes03/cbblogs) | Full-stack blogging platform with admin panel & rich content | Flask, SQLite |
-| [Emotional Analysis](https://github.com/CBcodes03/emo_proj) | Real-time emotion detection using ML | TensorFlow, OpenCV |
-| [Drive0](https://github.com/CBcodes03/drive0) | 2D racing game with collision detection | Python, Pygame |
+- 🔭 Building cloud-native infrastructure and platform engineering projects
+- 🌱 Exploring advanced Kubernetes, GitOps, and observability practices
+- ⚙️ Automating deployments and infrastructure using IaC
+- 💬 Open to discussions around DevOps, Cloud, Kubernetes, Linux, and Automation
+- 📫 Reach me on LinkedIn or via email
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Technical Skills
 
-**Languages:** Python • JavaScript • C++ • C • PHP  
-**Frontend:** React • Vue • HTML • CSS • Tailwind • React Native  
-**Backend:** Django • Flask • Node • Express  
-**Databases:** MongoDB • PostgreSQL • MySQL • Redis  
-**AI/ML:** TensorFlow • OpenCV • Scikit-learn • Pandas  
-**DevOps:** AWS • Docker • Kubernetes • Jenkins • Linux • Git  
-**Tools:** Figma • Postman • VS Code  
+### CI/CD
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### Cloud Platforms
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**AWS:** EC2 • S3 • Lambda • CloudWatch • EKS • ECS • RDS
+
+**GCP:** GKE • Load Balancer • VM Instances • Pub/Sub • Cloud CDN
+
+### Infrastructure as Code
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### Monitoring & Logging
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge)
+![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge)
+
+### Security
+
+- Trivy
+- Image Vulnerability Scanning
+- RBAC
+- Security Groups
+
+### Programming & Scripting
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge)
+
+### Tools & Frameworks
+
+Git • Nginx • Redis • RabbitMQ • FastAPI • Flask • Postman
 
 ---
 
-## 📊 GitHub Analytics  
+## 📌 Featured Projects
+
+| Project | Description |
+|----------|------------|
+| Terraform AWS Infrastructure | Automated provisioning of cloud infrastructure using Terraform |
+| Kubernetes Deployments | Production-grade deployments using Kubernetes and Helm |
+| GitOps Platform | ArgoCD-driven continuous delivery workflows |
+| Monitoring Stack | Prometheus, Grafana, Alertmanager and observability dashboards |
+| CI/CD Pipelines | Jenkins and GitLab CI/CD automation pipelines |
+| Infrastructure Automation | Configuration management with Ansible |
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=cbcodes03&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbcodes03&layout=compact&theme=algolia&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=cbcodes03&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbcodes03&layout=compact&theme=algolia&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cbcodes03&theme=algolia&hide_border=true" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbcodes03&theme=github_dark" />
-
 </div>
 
 ---
 
-## 📈 Contribution Graph  
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cbcodes03&theme=react-dark&hide_border=true&area=true" />
-</div>
-
----
-
-## 🧠 Additional Insights  
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cbcodes03&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cbcodes03&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cbcodes03&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cbcodes03&theme=github_dark&utcOffset=5.5" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cbcodes03&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## 🌐 Connect  
+## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/chirag-budakoti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/chirag-budakoti"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="mailto:chirag@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<a href="https://linkedin.com/in/chirag-budakoti">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🎯 Career Focus  
+## 🎯 Current Focus
 
-- AI / Machine Learning  
-- Full-Stack Engineering  
-- Cloud & DevOps  
+- Kubernetes & Platform Engineering
+- Cloud Infrastructure Automation
+- GitOps & CI/CD
+- Observability & Monitoring
+- Infrastructure as Code
+- Site Reliability Engineering (SRE)
 
 ---
 
-⭐ *Consistently building, learning, and shipping scalable systems.*
+⭐ Building scalable infrastructure, automating operations, and continuously improving cloud-native systems.
+```
