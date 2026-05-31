@@ -1,9 +1,9 @@
 <div align="center">
-
+  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hey,%20I%27m%20Chirag&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hey,%20I%27m%20Chirag&fontSize=36&fontColor=000000&fontAlignY=65&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=ImChirag&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hi%20I%27m%20Chirag&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hi%20I%27m%20Chirag&fontSize=36&fontColor=000000&fontAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hi%20I%27m%20Chirag&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
 </picture>
 
 </div>
