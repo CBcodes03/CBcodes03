@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Chirag 👋
 
 <div align="center">
@@ -21,11 +20,11 @@ DevOps Engineer with hands-on experience building and managing cloud-native infr
 
 Focused on designing scalable, reliable, and production-ready environments using modern DevOps practices and cloud technologies.
 
-- 🔭 Building cloud-native infrastructure and platform engineering projects
-- 🌱 Exploring advanced Kubernetes, GitOps, and observability practices
-- ⚙️ Automating deployments and infrastructure using IaC
-- 💬 Open to discussions around DevOps, Cloud, Kubernetes, Linux, and Automation
-- 📫 Reach me on LinkedIn or via email
+* 🔭 Building cloud-native infrastructure and platform engineering projects
+* 🌱 Exploring advanced Kubernetes, GitOps, and observability practices
+* ⚙️ Automating deployments and infrastructure using IaC
+* 💬 Open to discussions around DevOps, Cloud, Kubernetes, Linux, and Automation
+* 📫 Reach me on LinkedIn
 
 ---
 
@@ -33,20 +32,20 @@ Focused on designing scalable, reliable, and production-ready environments using
 
 ### CI/CD
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge\&logo=argo\&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FCA121?style=for-the-badge\&logo=gitlab\&logoColor=white)
 
 ### Containers & Orchestration
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm\&logoColor=white)
 
 ### Cloud Platforms
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 
 **AWS:** EC2 • S3 • Lambda • CloudWatch • EKS • ECS • RDS
 
@@ -54,45 +53,29 @@ Focused on designing scalable, reliable, and production-ready environments using
 
 ### Infrastructure as Code
 
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
 
 ### Monitoring & Logging
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge)
 ![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge)
 
 ### Security
 
-- Trivy
-- Image Vulnerability Scanning
-- RBAC
-- Security Groups
+Trivy • Image Vulnerability Scanning • RBAC • Security Groups
 
 ### Programming & Scripting
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge)
 
 ### Tools & Frameworks
 
 Git • Nginx • Redis • RabbitMQ • FastAPI • Flask • Postman
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|----------|------------|
-| Terraform AWS Infrastructure | Automated provisioning of cloud infrastructure using Terraform |
-| Kubernetes Deployments | Production-grade deployments using Kubernetes and Helm |
-| GitOps Platform | ArgoCD-driven continuous delivery workflows |
-| Monitoring Stack | Prometheus, Grafana, Alertmanager and observability dashboards |
-| CI/CD Pipelines | Jenkins and GitLab CI/CD automation pipelines |
-| Infrastructure Automation | Configuration management with Ansible |
 
 ---
 
@@ -128,24 +111,19 @@ Git • Nginx • Redis • RabbitMQ • FastAPI • Flask • Postman
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Kubernetes & Platform Engineering
-- Cloud Infrastructure Automation
-- GitOps & CI/CD
-- Observability & Monitoring
-- Infrastructure as Code
-- Site Reliability Engineering (SRE)
+* Kubernetes & Platform Engineering
+* Cloud Infrastructure Automation
+* GitOps & CI/CD
+* Observability & Monitoring
+* Infrastructure as Code
+* Site Reliability Engineering (SRE)
 
 ---
 
 ⭐ Building scalable infrastructure, automating operations, and continuously improving cloud-native systems.
-```
