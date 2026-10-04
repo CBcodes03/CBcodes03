@@ -1,45 +1,61 @@
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hi%20I%27m%20Chirag&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hi%20I%27m%20Chirag&fontSize=36&fontColor=000000&fontAlignY=65&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hi%20I%27m%20Chirag&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=DevOps+%26+Platform+Engineer;Kubernetes+%7C+AWS+%7C+GCP+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability;Building+Scalable%2C+Reliable+Infrastructure" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=DevOps+%26+Platform+Engineer;Kubernetes+%7C+AWS+%7C+GCP+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability;Building+Scalable%2C+Reliable+Infrastructure" />
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=DevOps+%26+Platform+Engineer;Kubernetes+%7C+AWS+%7C+GCP+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability;Building+Scalable%2C+Reliable+Infrastructure" alt="Typing SVG" width="100%" />
-</picture>
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirag%20Budakoti-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-budakoti)&nbsp;
-[![Location](https://img.shields.io/badge/📍-India-555?style=flat-square)](https://github.com/cbcodes03)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=cbcodes03&style=flat-square&color=grey&label=profile+views)](https://github.com/cbcodes03)
-
-</div>
 
 ---
 
-## About
+## 🚀 Pinned Projects
 
-DevOps Engineer with hands-on experience building and managing cloud-native infrastructure, Kubernetes platforms, CI/CD pipelines, monitoring systems, and infrastructure automation.
+<table>
+<tr>
+<td width="50%">
 
-Focused on designing scalable, reliable, production-ready environments using modern DevOps practices and cloud technologies.
+### ☁️ Infrastructure Boilerplate
 
-```
-🔭  Building cloud-native infrastructure and platform engineering projects
-🌱  Exploring advanced Kubernetes, GitOps, and observability practices
-⚙️  Automating deployments and infrastructure using IaC
-💬  Open to discussions around DevOps, Cloud, Kubernetes, Linux, and Automation
-```
+Terraform-based AWS infrastructure with reusable modules for VPC, subnets, NAT Gateway, security groups, and Application Load Balancer.
+
+**Stack:** `Terraform` `AWS` `VPC` `ALB` `IaC`
+
+[→ View Repository](https://github.com/CBcodes03/infra-boilerplate)
+
+</td>
+
+<td width="50%">
+
+### 🐍 PYinter
+
+A scalable online Python code execution platform built with FastAPI, Docker, RabbitMQ, and Redis, designed for high-concurrency workloads.
+
+**Stack:** `FastAPI` `Docker` `RabbitMQ` `Redis` `Python`
+
+[→ View Repository](https://github.com/CBcodes03/PYinter)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📝 CBBlogs
+
+Full-stack Flask blogging platform with authentication, comments, likes, favourites, search, and containerized MySQL deployment.
+
+**Stack:** `Flask` `MySQL` `Docker` `Nginx` `Kubernetes`
+
+[→ View Repository](https://github.com/CBcodes03/cbblogs)
+
+</td>
+
+<td width="50%">
+
+### ⚙️ DevSecOps & GitOps Platform
+
+Production-style deployment platform combining CI/CD, Kubernetes, GitOps, policy enforcement, secrets management, security scanning, and runtime security.
+
+**Stack:** `GitHub Actions` `Docker` `Kubernetes` `Argo CD` `Helm` `Kyverno` `OpenBao` `Falco` `Cosign`
+
+[→ View Repository](https://github.com/CBcodes03/cbblogs)
+
+</td>
+</tr>
+</table>
 
 ---
 
