@@ -19,11 +19,13 @@
 </div>
 
 <div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-budakoti)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chirag-budakoti-portfolio.onrender.com)&nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cbcodes03)&nbsp;
 [![Location](https://img.shields.io/badge/📍%20India-555555?style=for-the-badge)](https://github.com/cbcodes03)&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=cbcodes03&style=for-the-badge&color=grey&label=profile+views)](https://github.com/cbcodes03)
+
 </div>
 
 ---
