@@ -23,8 +23,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirag%20Budakoti-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-budakoti)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-chirag.dev-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://chirag-budakoti-portfolio.onrender.com)&nbsp;
 [![Location](https://img.shields.io/badge/📍-India-555?style=flat-square)](https://github.com/cbcodes03)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=cbcodes03&style=flat-square&color=grey&label=profile+views)](https://github.com/cbcodes03)
-
 </div>
 
 ---
