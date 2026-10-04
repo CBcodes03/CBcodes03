@@ -1,3 +1,46 @@
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hi%20I%27m%20Chirag&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hi%20I%27m%20Chirag&fontSize=36&fontColor=000000&fontAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hi%20I%27m%20Chirag&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=DevOps+%26+Platform+Engineer;Kubernetes+%7C+AWS+%7C+GCP+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability;Building+Scalable%2C+Reliable+Infrastructure" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=DevOps+%26+Platform+Engineer;Kubernetes+%7C+AWS+%7C+GCP+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability;Building+Scalable%2C+Reliable+Infrastructure" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=DevOps+%26+Platform+Engineer;Kubernetes+%7C+AWS+%7C+GCP+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability;Building+Scalable%2C+Reliable+Infrastructure" alt="Typing SVG" width="100%" />
+</picture>
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirag%20Budakoti-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-budakoti)&nbsp;
+[![Location](https://img.shields.io/badge/📍-India-555?style=flat-square)](https://github.com/cbcodes03)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=cbcodes03&style=flat-square&color=grey&label=profile+views)](https://github.com/cbcodes03)
+
+</div>
+
+---
+
+## About
+
+DevOps Engineer with 1.5+ years of experience running production Kubernetes
+workloads on AWS and GCP. I focus on automation, reliability, security, and
+keeping infrastructure costs down.
+
+### 🔧 What I work on
+
+- Kubernetes autoscaling with KEDA, Karpenter, and HPA (cut cluster costs by 30%)
+- CI/CD and GitOps with Jenkins, GitLab CI, GitHub Actions, and Argo CD
+- Infrastructure as Code with Terraform
+- DevSecOps: Trivy, Cosign, Syft, Kyverno, Falco, OpenBao
+- Monitoring with Grafana and Nagios
 
 ---
 
