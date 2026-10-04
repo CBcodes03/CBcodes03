@@ -1,9 +1,9 @@
 <div align="center">
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hi%20I%27m%20Chirag&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hi%20I%27m%20Chirag&fontSize=36&fontColor=000000&fontAlignY=65&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hi%20I%27m%20Chirag&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hi%20I%27m%20Chirag&fontSize=36&fontFamily=DM%20Mono&fontWeight=600&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hi%20I%27m%20Chirag&fontSize=36&fontFamily=DM%20Mono&fontWeight=600&fontColor=000000&fontAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Hi%20I%27m%20Chirag&fontSize=36&fontFamily=DM%20Mono&fontWeight=600&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
 </picture>
 
 </div>
@@ -21,6 +21,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirag%20Budakoti-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-budakoti)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-chirag.dev-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://chirag-budakoti-portfolio.onrender.com)&nbsp;
 [![Location](https://img.shields.io/badge/📍-India-555?style=flat-square)](https://github.com/cbcodes03)&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=cbcodes03&style=flat-square&color=grey&label=profile+views)](https://github.com/cbcodes03)
 
